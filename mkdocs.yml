@@ -4,3 +4,7 @@ nav:
     - About: about.md
 
 theme: readthedocs
+repo_url: https://github.com/GabrielaCR/AGNfitter/tree/AGNfitter_v2.0
+repo_name: 'GitHub'
+markdown_extensions:
+    - smarty
